@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import { Login } from './PrabhatComponents/Login/Login';
 import { Register } from './PrabhatComponents/Register/Register';
 import Navbar from "./components/Navbar"
-import Footer from "./components/Fotter"
+import Footer from "./components/Footer"
 import HomePage from "./components/riya/HomePage"
 import SearchResults from './components/Shivam/SearchResults';
 import './App.css';
